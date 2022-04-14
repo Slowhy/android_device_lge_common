@@ -24,7 +24,6 @@ android_app {
     certificate: "platform",
     privileged: true,
     platform_apis: true,
-    system_ext_specific: true,
 
     static_libs: [
         "vendor.lge.hardware.audio.dac.control-V1.0-java",
